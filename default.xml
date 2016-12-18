@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com"
+           fetch="https://aosp.tuna.tsinghua.edu.cn/android/" 
+           review="https://android-review.googlesource.com/"
            revision="refs/tags/android-6.0.1_r74" />
 
   <remote  name="github"
